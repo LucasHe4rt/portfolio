@@ -13,14 +13,16 @@ class ViewController extends Controller
     public function sendMessage(Request $request)
     {
 
-        $rawData = $request->all();
+        $rawMessage = $request->all();
 
         $contact = new Message();
-        $contact->create($rawData);
+        #$contact->create($rawData);
 
-        Mail::to('lucassilvabittencourt@protonmail.ch')->send(new SendMessages($rawData));
+        dd($rawMessage);
 
-        return response('Mensagem enviada!', 200);
+        #Mail::to('lucassilvabittencourt@protonmail.ch')->send(new SendMessages($rawMessage));
+
+       return response('mensagem enviada', 200);
 
     }
 
