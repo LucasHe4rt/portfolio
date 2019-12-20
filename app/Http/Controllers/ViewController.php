@@ -18,9 +18,9 @@ class ViewController extends Controller
         $contact = new Message();
         #$contact->create($rawData);
 
-        dd($rawMessage);
+//        dd($rawMessage);
 
-        #Mail::to('lucassilvabittencourt@protonmail.ch')->send(new SendMessages($rawMessage));
+        Mail::to('lucassilvabittencourt@protonmail.ch')->send(new SendMessages($rawMessage));
 
        return response('mensagem enviada', 200);
 

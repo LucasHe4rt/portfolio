@@ -1,7 +1,7 @@
 <div style='width:600px;'>
-    <p><strong>Nome: </strong>{{$name}}</p>
-    <p><strong>Email: </strong>{{$email}}</p>
-    <p><strong>Assunto: </strong>{{$subject}}</p>
+    <p><strong>Nome: </strong>{{$data['name']}}</p>
+    <p><strong>Email: </strong>{{$data['email']}}</p>
+    <p><strong>Assunto: </strong>{{$data['subject']}}</p>
     <p><strong>Mensagem: </strong></p>
-    <p>{{$message}}</p>
+    <p>{{$data['message']}}</p>
 </div>
