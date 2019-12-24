@@ -78,7 +78,7 @@
             </ul>
         </nav>
         <div class="copyright pull-right">
-            &copy;
+          LucasBittencourt &copy; 2020
         </div>
     </div>
 </footer>

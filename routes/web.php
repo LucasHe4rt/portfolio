@@ -17,4 +17,4 @@ Route::get('/', function () {
 
 Route::post('/send', 'ViewController@sendMessage')->name('sendMessage');
 
-
+Route::get('/admin', 'AdminController@index')->name('admin.index');

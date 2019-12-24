@@ -33,7 +33,6 @@ class SendMessages extends Mailable
     public function build()
     {
         return $this->view('message')
-           
             ->from('portfolio@contato.com', $this->data['name'])
             ->subject($this->data['subject']);
     }

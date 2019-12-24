@@ -35,7 +35,7 @@
                 <div class="col-md-6 column">
                     <h4>Etec Professor Marcos Uchoas dos Santos Penchel - 11 meses</h4>
                     <p>Nesses 11 meses, atuei como monitor de programacão no projeto "Monitoria Volúntaria", ensinando e tirando dúvidas dos alunos
-                        sobre o desenvolvimento de aplicacões para web. <strong> As principais linguagens abordadas foram: </strong> HTML5, CSS3, Framework Bootstrap, PHP e SQL.</p>
+                        sobre o desenvolvimento de aplicacões para web. <strong> As principais ferramentas abordadas foram: </strong> HTML5, CSS3, Framework Bootstrap, PHP e SQL.</p>
 
                 </div>
             </div>
@@ -45,70 +45,74 @@
     <div id="skills" class="section section-dark text-center landing-section">
         <div class="container">
             <h2>Habilidades</h2>
-            <div class="col-md-3">
-                <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="1 ano ~ 2 anos">PHP</p>
-                <div class="progress">
-                    <div  class="progress-bar btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="60% de domínio" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;background-color: #777ab1">
-                        <span class="sr-only">60% de domínio</span>
+                <p>Abaixo estão as ferramentas nas quais tenho experiência juntamente com seu tempo de estudo e/ou uso da mesma:</p>
+            <div style="margin-top: 50px">
+                <div class="col-md-3">
+                    <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="1 ano ~ 2 anos">PHP</p>
+                    <div class="progress">
+                        <div  class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;background-color: #777ab1">
+                            <span class="sr-only"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="6 meses ~ 1 ano">Laravel</p>
+                    <div class="progress">
+                        <div  class="progress-bar " role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;background-color: #f6524a">
+                            <span class="sr-only"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="6 meses ~ 1 ano">MySql</p>
+                    <div class="progress">
+                        <div  class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;background-color: #3765af">
+                            <span class="sr-only"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="1 mês ~ 6 meses">Javascript</p>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;background-color: #f8e03e">
+                            <span class="sr-only"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="1 mês ~ 6 meses">Jquery</p>
+                    <div class="progress">
+                        <div  class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;background-color: #1e2e3b">
+                            <span class="sr-only"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="6 meses ~ 1 ano">Bootstrap</p>
+                    <div class="progress">
+                        <div  class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;background-color: #5a3f82">
+                            <span class="sr-only"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="6 meses ~ 1 ano">MVC</p>
+                    <div class="progress">
+                        <div  class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;background-color: #5cc6bc">
+                            <span class="sr-only"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="1 ano ~ 2 anos">Linux</p>
+                    <div class="progress">
+                        <div  class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;background-color: #ff8c19">
+                            <span class="sr-only"></span>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3">
-                <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="6 meses ~ 1 ano">Laravel</p>
-                <div class="progress">
-                    <div  class="progress-bar btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="40% de domínio" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;background-color: #f6524a">
-                        <span class="sr-only">40% de domínio</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="6 meses ~ 1 ano">MySql</p>
-                <div class="progress">
-                    <div  class="progress-bar btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="20% de domínio" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;background-color: #3765af">
-                        <span class="sr-only">20% de domínio</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="1 mês ~ 6 meses">Javascript</p>
-                <div class="progress">
-                    <div class="progress-bar btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="20% de domínio" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;background-color: #f8e03e">
-                        <span class="sr-only">20% de domínio</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="1 mês ~ 6 meses">Jquery</p>
-                <div class="progress">
-                    <div  class="progress-bar btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="20% de domínio" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;background-color: #1e2e3b">
-                        <span class="sr-only">20% de domínio</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="6 meses ~ 1 ano">Bootstrap</p>
-                <div class="progress">
-                    <div  class="progress-bar btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="40% de domínio" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;background-color: #5a3f82">
-                        <span class="sr-only">40% de domínio</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="6 meses ~ 1 ano">MVC</p>
-                <div class="progress">
-                    <div  class="progress-bar btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="55% de domínio" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%;background-color: #5cc6bc">
-                        <span class="sr-only">55% de domínio</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <p class="btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="1 ano ~ 2 anos">Linux</p>
-                <div class="progress">
-                    <div  class="progress-bar btn-tooltip" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="60% de domínio" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;background-color: #ff8c19">
-                        <span class="sr-only">60% de domínio</span>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
 

@@ -16,13 +16,17 @@ class ViewController extends Controller
         $rawMessage = $request->all();
 
         $contact = new Message();
-        #$contact->create($rawData);
-
-//        dd($rawMessage);
+        $contact->name = $rawMessage['name'];
+        $contact->email = $rawMessage['email'];
+        $contact->subject = $rawMessage['subject'];
+        $contact->message = $rawMessage['message'];
+        $contact->read = 0;
+        $contact->save();
 
         Mail::to('lucassilvabittencourt@protonmail.ch')->send(new SendMessages($rawMessage));
 
-       return response('mensagem enviada', 200);
+       return response('mensagem enviada', 200)
+           ->header('Content-Type', 'text/plain');
 
     }
 
